@@ -1,7 +1,7 @@
-# 🕹️ Hangman Game (Python)
+🕹️ Hangman Game (Python)
 This is a simple console-based Hangman game built using Python as part of the **CodeAlpha Internship Program**.
 
-## 🏁 Task
+🏁 Task
 **Domain**: Python  
 **Organization**: CodeAlpha  
 **Task**: Build a console-based Hangman game.
