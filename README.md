@@ -1,4 +1,4 @@
-# 🕹️ Hangman Game (Python Console Version)
+# 🕹️ Hangman Game (Python)
 
 Welcome to the classic **Hangman** game built using **Python**!  
 This is a simple text-based version of the game where a player tries to guess a hidden word one letter at a time.
