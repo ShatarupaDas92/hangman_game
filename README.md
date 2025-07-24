@@ -15,6 +15,5 @@ This is a simple text-based version of the game where a player tries to guess a 
 2. Clone this repository or download the `hangman.py` file.
 3. Open your terminal and navigate to the directory containing `hangman.py`.
 4. Run the game using:
-
 ```bash
 python hangman.py
