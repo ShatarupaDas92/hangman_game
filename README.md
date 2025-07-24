@@ -1,4 +1,11 @@
 # 🕹️ Hangman Game (Python)
+This is a simple console-based Hangman game built using Python as part of the **CodeAlpha Internship Program**.
+
+## 🏁 Task
+**Domain**: Python  
+**Organization**: CodeAlpha  
+**Task**: Build a console-based Hangman game.
+
 
 Welcome to the classic **Hangman** game built using **Python**!  
 This is a simple text-based version of the game where a player tries to guess a hidden word one letter at a time.
